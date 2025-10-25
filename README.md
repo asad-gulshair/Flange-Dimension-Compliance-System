@@ -25,3 +25,6 @@ An AI-powered computer vision solution designed to automatically measure and ver
 | Annotation Tools | Roboflow, CVAT |
 | Visualization | Matplotlib, Plotly |
 | Deployment | Docker, REST APIs |
+
+
+Dataset and code will be availlabe as per request and only for reserch purpose not for professioanl use.
