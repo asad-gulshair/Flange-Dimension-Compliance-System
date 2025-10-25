@@ -27,4 +27,8 @@ An AI-powered computer vision solution designed to automatically measure and ver
 | Deployment | Docker, REST APIs |
 
 
+Working
+The system determines Pass/Fail compliance for each flange according to applicable industry standards.
+
+
 Dataset and code will be availlabe as per request and only for reserch purpose not for professioanl use.
